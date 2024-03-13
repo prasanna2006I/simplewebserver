@@ -11,7 +11,19 @@ content = """
 <th>Company</th> <th>Revenue</th> <th>Financial Year</th>
 </tr>
 <tr>
-<td>Micro Soft</td> <td>$9034</td> <td>2014</td>
+<td>Micro Soft</td> <td>$86.8</td> <td>2014</td>
+</tr>
+<tr>
+<td>Oracle</td> <td>$37.1</td> <td>2013</td>
+</tr>
+<tr>
+<td>SAP</td> <td>$20.9</td> <td>2013</td>
+</tr>
+<tr>
+<td>Symantec</td> <td>$6.8</td> <td>2013</td>
+</tr>
+<tr>
+<td>VMware</td> <td>$5.2</td> <td>2013</td>
 </tr>
 </table>
 </body>
